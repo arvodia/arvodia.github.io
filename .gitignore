@@ -1,0 +1,8 @@
+# Ignore NetBeans Config.
+
+/nbproject/
+
+# Ignore htaccess Files.
+
+/.htaccess
+/.htpasswd
